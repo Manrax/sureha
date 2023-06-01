@@ -6,6 +6,6 @@
     "issue_tracker": "https://github.com/benleb/sureha/issues",
     "config_flow": true,
     "codeowners": ["@benleb"],
-    "requirements": ["surepy>=0.7.2"],
+    "requirements": ["git+https://github.com/Manrax/surepy.git@dev#surepy"],
     "iot_class": "cloud_polling"
 }
